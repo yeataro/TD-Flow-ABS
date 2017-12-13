@@ -5,7 +5,7 @@ TD-Flow-ABS V0.1
 
 Author: Yea Chen <yeataro@gmail.com>
 
-base on Jan Eric Kyprianidis' flowabs.(Not a perfect transplant)
+base on Jan Eric Kyprianidis' flowabs. (Not a perfect transplant)
 
 Original code by Jan Eric Kyprianidis <www.kyprianidis.com>  <https://code.google.com/p/flowabs>
 
