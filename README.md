@@ -9,7 +9,8 @@ base on Jan Eric Kyprianidis' flowabs. (Not a perfect transplant)
 
 Original code by Jan Eric Kyprianidis <www.kyprianidis.com>  <https://code.google.com/p/flowabs>
 
-![examples](https://raw.githubusercontent.com/yeataro/TD-Flow-ABS/master/imgs/null.jpg)
+![examples](https://raw.githubusercontent.com/yeataro/TD-Flow-ABS/master/imgs/The_Graduate.jpg)
+![examples](https://raw.githubusercontent.com/yeataro/TD-Flow-ABS/master/imgs/The_Graduate_2.jpg)
 
 "
 This program implements an automatic image and video abstraction technique based on the orientation-aligned bilateral and separable flow-based difference of Gaussians filters. It was written by Jan Eric Kyprianidis while working as a research scientist for the computer graphics systems group of the Hasso-Plattner-Institut at the University of Potsdam, Germany.
