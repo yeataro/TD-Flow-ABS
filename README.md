@@ -1,4 +1,4 @@
-# TD-Flow-ABS V0.1
+# TD-Flow-ABS V0.2
 Real-time Flow-based Image and Video Abstraction in TouchDesigner.
 -----
 ![examples](https://raw.githubusercontent.com/yeataro/TD-Flow-ABS/master/imgs/2017-12-13_155120.png)
